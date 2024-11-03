@@ -1,5 +1,5 @@
 {
-  "homepage": "/my-library-app",
+  "homepage": ".",
   "name": "my-library-app",
   "version": "0.1.0",
   "private": false,
